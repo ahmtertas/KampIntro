@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metot", "Metot\Metot.csproj", "{DF39D5BE-67A1-4533-8FAB-5350831086F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{3F2D1478-00F0-428B-8D69-2B976501EB73}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{186C4048-BAA4-4084-AD9B-6510CBCBD9CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenecirsIntro", "GenecirsIntro\GenecirsIntro.csproj", "{9ECF58AB-3B68-4E54-BE65-D481E53171CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{CB67E89E-064A-4A47-A72F-F2AED26CB00D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF39D5BE-67A1-4533-8FAB-5350831086F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF39D5BE-67A1-4533-8FAB-5350831086F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF39D5BE-67A1-4533-8FAB-5350831086F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF39D5BE-67A1-4533-8FAB-5350831086F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2D1478-00F0-428B-8D69-2B976501EB73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2D1478-00F0-428B-8D69-2B976501EB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2D1478-00F0-428B-8D69-2B976501EB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2D1478-00F0-428B-8D69-2B976501EB73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{186C4048-BAA4-4084-AD9B-6510CBCBD9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186C4048-BAA4-4084-AD9B-6510CBCBD9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186C4048-BAA4-4084-AD9B-6510CBCBD9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186C4048-BAA4-4084-AD9B-6510CBCBD9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ECF58AB-3B68-4E54-BE65-D481E53171CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECF58AB-3B68-4E54-BE65-D481E53171CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECF58AB-3B68-4E54-BE65-D481E53171CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECF58AB-3B68-4E54-BE65-D481E53171CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB67E89E-064A-4A47-A72F-F2AED26CB00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB67E89E-064A-4A47-A72F-F2AED26CB00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB67E89E-064A-4A47-A72F-F2AED26CB00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB67E89E-064A-4A47-A72F-F2AED26CB00D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE42B97C-E20D-47C2-B1B7-98E226321537}
+	EndGlobalSection
+EndGlobal
